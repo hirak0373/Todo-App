@@ -1,0 +1,45 @@
+body
+{
+  background-image: url(1.jpg);
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: auto auto;
+       
+  margin-left: auto;
+    margin-right: auto;
+
+    margin-top: 70px;
+    text-align: center;
+}
+background-image
+{
+  height: 100%;
+  width: 100%;
+}
+.Btn
+{
+  width: 55px;
+  height: 25px;
+ 
+}
+button:hover
+{
+  background-color: white;
+  color: blueviolet;
+}
+.lidec
+{
+
+  text-decoration: none;
+}
+table.center { margin-left:auto; margin-right:auto; } 
+td
+{
+  padding-left: 10px;
+  padding-right:10px ;
+}
+
+.tbl
+{
+    margin: 10px;
+}
